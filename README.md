@@ -1,4 +1,4 @@
-# onlineretailstore
+# Online Retail Store
 Starting Application
 1)  cd <ROOT_DIR>
 mvn spring-boot:run
