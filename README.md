@@ -40,5 +40,7 @@ Sample input Output
 	curl http://localhost:8080/category
 	
 NOTE:
+
 1) Unit testing of domain CRUD operations is not needed because spring data is directly used. Hence there is no need of Service or Repository Implementation Layer.
+
 2) Validation of Domain object is skipped and creation of business exception
