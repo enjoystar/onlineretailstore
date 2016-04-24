@@ -5,6 +5,7 @@ mvn spring-boot:run
 
 Test Application
 Application can be tested in two ways:
+
 1) Stanalone Application: As an standalone application where user needs to enter inputs after starting the starting the application.
 Sample input Output
 	
