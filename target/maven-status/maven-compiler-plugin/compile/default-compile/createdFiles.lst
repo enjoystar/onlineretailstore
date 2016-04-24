@@ -1,0 +1,8 @@
+com/onlineretail/MenuOption.class
+com/onlineretail/repository/ProductRepository.class
+com/onlineretail/domain/ProductList.class
+com/onlineretail/repository/CategoryRepository.class
+com/onlineretail/domain/Product.class
+com/onlineretail/database/DatabaseIntialization.class
+com/onlineretail/OnlineRetailApplication.class
+com/onlineretail/domain/Category.class
